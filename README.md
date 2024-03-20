@@ -29,6 +29,9 @@ What you should be able to accomplish
 ![Screenshot 2024-03-19 150410](https://github.com/DCVglobalnetwork/simpleStorageFoundry/assets/105791829/97b0e46c-d267-4660-8bdb-cb1fa1a44a1c)
 
 
+# Important note! 
+
+![Screenshot 2024-03-20 112631](https://github.com/DCVglobalnetwork/simpleStorageFoundry/assets/105791829/164e9235-43f8-40a8-954f-459035d5f2b9)
 
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
