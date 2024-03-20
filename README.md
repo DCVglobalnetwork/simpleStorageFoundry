@@ -34,6 +34,19 @@ What you should be able to accomplish
 ![Screenshot 2024-03-20 112631](https://github.com/DCVglobalnetwork/simpleStorageFoundry/assets/105791829/164e9235-43f8-40a8-954f-459035d5f2b9)
 
 
+# Add .env 
+
+![Screenshot 2024-03-20 123023](https://github.com/DCVglobalnetwork/simpleStorageFoundry/assets/105791829/74849a33-dfec-4abd-b1f1-d7738c2ca95a)
+
+***make sure you have .env in your gitignore file***
+
+![Screenshot 2024-03-20 122713](https://github.com/DCVglobalnetwork/simpleStorageFoundry/assets/105791829/c36a27fd-785c-421f-9ef0-cc0cd2c6656a)
+
+## Do not share your private key! while uploading to Github leave empty space or XXXXXXXXXX 
+
+
+
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
