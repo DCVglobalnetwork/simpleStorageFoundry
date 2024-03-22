@@ -44,7 +44,9 @@ What you should be able to accomplish
 
 ## Do not share your private key! while uploading to Github leave empty space or XXXXXXXXXX 
 
+# For real money and production use keystore encryption method of private key into a JSON format 
 
+more information please read Foundry updates and https://eips.ethereum.org/EIPS/eip-2335
 
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
